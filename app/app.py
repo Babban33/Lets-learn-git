@@ -15,4 +15,4 @@ def greet_user(name: str):
 # Simple POST API to receive JSON data
 @app.post("/submit")
 def submit_data(data: dict):
-    return {"received_data": data, "message": "Data received successfully!"}
+    return {"received_data": data, "message": "Data received !"}
