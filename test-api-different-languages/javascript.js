@@ -1,4 +1,4 @@
-fetch('http://127.0.0.1:8000/hello/Atharva', {
+fetch('http://127.0.0.1:8000/hello/salman-khan', {
     method: 'GET',
     headers: {
         'Accept': 'application/json'
